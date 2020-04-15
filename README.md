@@ -36,7 +36,7 @@ sudo unzip zencart-remibit.zip
 
 Please make sure you are on your {WEBROOT} directory before uncompressing. From it, you should see extras and includes directories.
 
-4/. Login to Admin dashboard, go to `Modules` > `Payment`, select `RemiBit Payment Method` from the list and click on the Install Module button 
+4/. Login to Admin dashboard, go to `Modules` > `Payment`, select `RemiBit Payment Method` from the list and click on the `Install Module` button 
 
   
 5/. Fill up the RemiBit authentication information from your RemiBit merchant account's `Settings` > `Gateway`:
