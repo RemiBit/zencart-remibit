@@ -3,19 +3,19 @@ ZEN CART REMIBIT MODULE
 ## Integration Requirements
 
 - A RemiBit merchant account
-- Zen Cart, tested up to version 1.5.7 
+- zen cart, tested up to version 1.5.7 
 
 INSTALLATION AND CONFIGURATION
 
 
 In order to install the module, it is necessary to access the server where the web files are hosted by ssh. If you don’t know how to do that, please contact your site administrator or your hosting provider.
 
-In this example we will use the default Zen Cart configuration, so the website files are located in /var/www/html/zencart and they are owned by the default user www-data. Please replace [zencart] with the actual name (if different) of your website directory and [www-data] with the owner (if different) of your web files directory.
+In this example we will use the default zen cart configuration, so the website files are located in /var/www/html/zencart and they are owned by the default user www-data. Please replace [zencart] with the actual name (if different) of your website directory and [www-data] with the owner (if different) of your web files directory.
 
 
 ## Installation
 
-1/. Go to the Zen Cart directory
+1/. Go to the zen cart directory
 
 ```
 cd /var/www/html/zencart
